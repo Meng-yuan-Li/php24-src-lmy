@@ -30,6 +30,7 @@
             <li class="mx-2"><a href="ex1.php">ex1</a></li>
             <li class="mx-2"><a href="ex2.php">ex2</a></li>
             <li class="mx-2"><a href="ex3.php">ex3</a></li>
+            <li class="mx-2"><a href="ex4.php">ex4</a></li>
 
           </ul>
         </nav>
